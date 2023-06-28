@@ -1,0 +1,35 @@
+{
+    
+    "Documents":
+        {
+            "path":"D:\\Documents",
+            "extensoes":["mobi","epub","odt", "doc","docx", "xlsx", "pptx", "ppt", "pdf", "txt", "rtf", "xlss", "ods","csv"],
+            "files":[]
+        
+        },
+
+    "Videos":
+        {
+            "path":"D:\\Videos",
+            "extensoes":["mp4", "avi", "wmv", "mov", "mkv","flv"],
+            "files":[]
+        },
+
+    "Music":
+        {
+            "path":"D:\\Music",
+            "extensoes":["mp3", "wav", "aac", "wma"],
+            "files":[]
+
+        },
+
+
+    "Image":
+        {
+            "path":"D:\\Pictures",
+            "extensoes":["jpg", "jpeg", "png", "gif", "bmp", "tif","tiff", "svg"],
+            "files":[]
+            
+        }
+
+}
